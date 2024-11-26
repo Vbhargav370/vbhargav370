@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 👋 Hi, I'm Venkata Bhargav Vinjamuru!
 Welcome to my GitHub profile! I’m passionate about leveraging data and technology to solve real-world problems. Here, I share my projects, scripts, and insights across Python, SQL, Excel, and Power BI, showcasing my journey as a data enthusiast and developer.
+
 🛠️ Skills & Expertise
 🐍 Python: Automating workflows, building applications, and solving complex problems.
 🗄️ SQL: Crafting efficient queries, database optimization, and designing relational databases.
