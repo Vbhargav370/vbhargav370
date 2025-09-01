@@ -47,9 +47,17 @@ Here, I share my projects, scripts, and insights across **Python, SQL, Excel, an
 
 ## 🤝 Let’s Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vbhargav370)  
-- 📫 [Email](mailto:vbhargav370@gmail.com)  
-- 🖥️ [GitHub](https://github.com/Vbhargav370)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/vbhargav370" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vbhargav370@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vbhargav370" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
