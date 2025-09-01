@@ -1,86 +1,75 @@
 # 👋 Hi, I'm **Venkata Bhargav Vinjamuru**  
 
-Welcome to my GitHub profile! 🚀  
-I’m passionate about leveraging **data & technology** to solve real-world problems.  
-Here, I share my projects, scripts, and insights across **Python, SQL, Excel, and Power BI**, showcasing my journey as a **data enthusiast & developer**.  
+🚀 Passionate about **data & technology** → turning numbers into insights and building smart solutions.  
+On this GitHub, I share projects across **Python, SQL, Excel, and Power BI**, showcasing my journey as a **data enthusiast & developer**.  
 
 ---
+
 # 📊 GitHub Dashboard  
 
-## 🔥 Profile Stats  
-![👀 Profile Views](https://komarev.com/ghpvc/?username=Vbhargav370&label=Profile%20Views&color=brightgreen&style=for-the-badge)  
-![👥 Followers](https://img.shields.io/github/followers/Vbhargav370?label=Followers&style=for-the-badge)  
-![⭐ Stars](https://img.shields.io/github/stars/Vbhargav370?label=Stars&style=for-the-badge)  
+## 🚀 Key Performance Indicators (KPIs)  
+
+| 📌 Metric              | 🔢 Value                                                                 |
+|-------------------------|--------------------------------------------------------------------------|
+| 👀 **Profile Views**   | ![Views](https://komarev.com/ghpvc/?username=Vbhargav370&label=&color=brightgreen&style=for-the-badge) |
+| 👥 **Followers**       | ![Followers](https://img.shields.io/github/followers/Vbhargav370?label=&style=for-the-badge) |
+| ⭐ **Stars Received**  | ![Stars](https://img.shields.io/github/stars/Vbhargav370?label=&style=for-the-badge) |
+| 📂 **Repositories**    | ![Repos](https://badges.pufler.dev/repos/Vbhargav370?style=for-the-badge&color=blue) |
+| 🔄 **Contributions**   | ![Contributions](https://github-readme-streak-stats.herokuapp.com?user=Vbhargav370&theme=tokyonight&hide_border=true) |
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 Achievements  
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Vbhargav370&theme=tokyonight&no-frame=true&margin-w=15)  
 
 ---
 
-## 📈 Contribution Graph  
+## 📈 Activity Overview  
+
+### 🔹 Contribution Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vbhargav370&theme=github-compact)  
 
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vbhargav370&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhargav370&layout=compact&theme=tokyonight)  
+### 🔹 Stats & Languages  
+![Stats](https://github-readme-stats.vercel.app/api?username=Vbhargav370&show_icons=true&theme=tokyonight&count_private=true)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhargav370&layout=compact&theme=tokyonight)  
 
 ---
 
-## ⚡ Streaks  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhargav370&theme=tokyonight&date_format=M%20j%5B,%20Y%5D)  
+## ⚡ Performance Trend  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhargav370&theme=tokyonight&date_format=M%20j%5B,%20Y%5D)  
 
 ---
 
-## 🗂️ Featured Repositories  
-[![Resume Parser](https://github-readme-stats.vercel.app/api/pin/?username=Vbhargav370&repo=resume_parser.py&theme=tokyonight)](https://github.com/Vbhargav370/resume_parser.py)  
+# 🛠️ Skills & Expertise  
+
+- 🐍 **Python** → automation, applications, workflows  
+- 🗄️ **SQL** → database design, optimization, queries  
+- 📊 **Excel** → advanced formulas, pivots, macros  
+- 📈 **Power BI** → dashboards & storytelling  
 
 ---
 
+# 📌 Featured Projects  
 
-## 🛠️ Skills & Expertise  
+### 🔎 Resume Parser (Python)  
+Automates **resume parsing** with `pdfplumber`, `regex`, `Tkinter`.  
 
-- 🐍 **Python** → Automating workflows, building applications, solving complex problems  
-- 🗄️ **SQL** → Efficient queries, database optimization, relational database design  
-- 📊 **Excel** → Advanced formulas, pivot tables, VLOOKUP, and macros  
-- 📈 **Power BI** → Interactive dashboards & data storytelling  
-
----
-
-## 🚀 What You’ll Find Here  
-
-- 💻 Python scripts & mini-projects  
-- 📂 SQL queries & database design templates  
-- 📑 Excel automation tips & advanced use cases  
-- 📊 Power BI dashboards  
-
----
-
-## 📌 Featured Projects  
-
-### 1️⃣ Resume Parser Application  
-🔎 Automates resume parsing using **Python (`pdfplumber`, `regex`, `Tkinter`)**.  
-
-**✨ Key Features:**  
-✅ Extracts **skills, education, and experience**  
+✅ Extracts **skills, education, experience**  
 ✅ Matches resumes with **job roles**  
 
 🔗 [View Project](https://github.com/Vbhargav370/resume_parser.py)  
 
 ---
 
-## 📚 Certifications  
+# 📚 Certifications  
 
 - 🌟 **Python** (5⭐ on HackerRank)  
 - 🏅 **Database Management System** (Infosys Springboard)  
-- 🎓 **Databases for Developers** (Oracle Dev Gym Certified)  
+- 🎓 **Databases for Developers** (Oracle Dev Gym)  
 
 ---
 
-## 🤝 Let’s Connect  
+# 🤝 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vbhargav370" target="_blank">
@@ -96,11 +85,9 @@ Here, I share my projects, scripts, and insights across **Python, SQL, Excel, an
 
 ---
 
-## 🖤 Fun Fact  
-
-✨ **Data is the art of storytelling** → Every number has a story, let’s uncover it together!  
+# 🖤 Fun Fact  
+✨ **Data is storytelling** → Every number has a story. Let’s uncover it together!  
 
 ---
 
-
-✨ _Thanks for visiting! Don’t forget to ⭐ my repositories if you like them._  
+⭐ _If you like my work, don’t forget to star my repositories._  
