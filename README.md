@@ -5,6 +5,41 @@ I’m passionate about leveraging **data & technology** to solve real-world prob
 Here, I share my projects, scripts, and insights across **Python, SQL, Excel, and Power BI**, showcasing my journey as a **data enthusiast & developer**.  
 
 ---
+# 📊 GitHub Dashboard  
+
+## 🔥 Profile Stats  
+![👀 Profile Views](https://komarev.com/ghpvc/?username=Vbhargav370&label=Profile%20Views&color=brightgreen&style=for-the-badge)  
+![👥 Followers](https://img.shields.io/github/followers/Vbhargav370?label=Followers&style=for-the-badge)  
+![⭐ Stars](https://img.shields.io/github/stars/Vbhargav370?label=Stars&style=for-the-badge)  
+
+---
+
+## 🏆 GitHub Achievements  
+![Trophy](https://github-profile-trophy.vercel.app/?username=Vbhargav370&theme=tokyonight&no-frame=true&margin-w=15)  
+
+---
+
+## 📈 Contribution Graph  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vbhargav370&theme=github-compact)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vbhargav370&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhargav370&layout=compact&theme=tokyonight)  
+
+---
+
+## ⚡ Streaks  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhargav370&theme=tokyonight&date_format=M%20j%5B,%20Y%5D)  
+
+---
+
+## 🗂️ Featured Repositories  
+[![Resume Parser](https://github-readme-stats.vercel.app/api/pin/?username=Vbhargav370&repo=resume_parser.py&theme=tokyonight)](https://github.com/Vbhargav370/resume_parser.py)  
+
+---
+
 
 ## 🛠️ Skills & Expertise  
 
@@ -67,39 +102,5 @@ Here, I share my projects, scripts, and insights across **Python, SQL, Excel, an
 
 ---
 
-# 📊 GitHub Dashboard  
-
-## 🔥 Profile Stats  
-![👀 Profile Views](https://komarev.com/ghpvc/?username=Vbhargav370&label=Profile%20Views&color=brightgreen&style=for-the-badge)  
-![👥 Followers](https://img.shields.io/github/followers/Vbhargav370?label=Followers&style=for-the-badge)  
-![⭐ Stars](https://img.shields.io/github/stars/Vbhargav370?label=Stars&style=for-the-badge)  
-
----
-
-## 🏆 GitHub Achievements  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Vbhargav370&theme=tokyonight&no-frame=true&margin-w=15)  
-
----
-
-## 📈 Contribution Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vbhargav370&theme=github-compact)  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vbhargav370&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhargav370&layout=compact&theme=tokyonight)  
-
----
-
-## ⚡ Streaks  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhargav370&theme=tokyonight&date_format=M%20j%5B,%20Y%5D)  
-
----
-
-## 🗂️ Featured Repositories  
-[![Resume Parser](https://github-readme-stats.vercel.app/api/pin/?username=Vbhargav370&repo=resume_parser.py&theme=tokyonight)](https://github.com/Vbhargav370/resume_parser.py)  
-
----
 
 ✨ _Thanks for visiting! Don’t forget to ⭐ my repositories if you like them._  
