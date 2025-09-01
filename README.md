@@ -137,5 +137,37 @@ I aim to make this repository a hub for:
 ---
 
 
+# 📊 GitHub Dashboard
+
+## 🔥 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=Vbhargav370&label=Profile%20Views&color=blue&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Vbhargav370?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Vbhargav370?label=Stars&style=social)
+
+---
+
+## 🏆 GitHub Achievements
+![Trophy](https://github-profile-trophy.vercel.app/?username=Vbhargav370&theme=algolia&no-frame=true&margin-w=15)
+
+---
+
+## 📈 Contribution Graph
+![Bhargav's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vbhargav370&theme=react-dark)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vbhargav370&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vbhargav370&layout=compact&theme=radical)
+
+---
+
+## ⚡ Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vbhargav370&theme=radical)
+
+---
+
+## 🗂️ Featured Repositories
+[![Resume Parser](https://github-readme-stats.vercel.app/api/pin/?username=Vbhargav370&repo=resume_parser.py&theme=radical)](https://github.com/Vbhargav370/resume_parser.py)
 
 
