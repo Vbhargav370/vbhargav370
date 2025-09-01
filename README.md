@@ -73,21 +73,16 @@ Automates **resume parsing** with `pdfplumber`, `regex`, `Tkinter`.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vinjamuru-venkata-bhargav" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" 
-         alt="LinkedIn" 
-         width="45" height="45" style="max-width:100%; height:auto;" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vbhargav370@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" 
-         alt="Gmail" 
-         width="45" height="45" style="max-width:100%; height:auto;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Vbhargav370" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" 
-         alt="GitHub" 
-         width="45" height="45" style="max-width:100%; height:auto;" />
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
